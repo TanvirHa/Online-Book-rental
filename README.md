@@ -1,2 +1,2 @@
 # cse327-Project
-This is Online Book rental based project.
+This is our Online Book rental based project.
